@@ -1,6 +1,6 @@
 <h1 align="left">Hi guys 👋, I'm Tullio</h1>
 
-- 🔭 I’m currently working on **[bip39](https://github.com/tulliolo/bip39)** library and tools
+- 🔭 I’m currently working on a **[bip39](https://github.com/tulliolo/bip39)** library and tools
 - 🌱 I’m currently learning **bitcoin and lightning network**
 - 📫 How to reach me on **nostr**: **tulliolo@nostr.red**
 - ⚡ Fun fact: I'm a master diver from springboard and platform... **flying is wonderful!**
