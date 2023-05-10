@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a **[bip39](https://github.com/tulliolo/bip39)** library and tools
 - 🌱 I’m currently learning **bitcoin and lightning network**
-- 📫 How to reach me: <img src="https://img.shields.io/badge/-Nostr-61DAFB"/> **tulliolo@nostr.red** | **npub16xyd6m0jvduzddtt6cvrwypnufqugljtp94t476q8seepp7w4llqkr0zpr**
+- 📫 How to reach me: <img src="https://img.shields.io/badge/-Nostr-61DAFB"/> **tulliolo@nostr.red**
 - 🤸‍♂️ For fun: I'm a master diver from springboard and platform... **flying is wonderful!**
 - ⚡ LNAddress: **tulliolo@getalby.com**
 
